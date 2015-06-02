@@ -1,4 +1,4 @@
-package com.tutsplus.code.tutorial.kotlin7
+package com.tutsplus.code.tutorial.kotlin9
 
 fun main(args: Array<String>){
 	val name = "Bob"
